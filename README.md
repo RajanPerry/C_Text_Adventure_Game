@@ -1,0 +1,2 @@
+# C_Text_Adventure_Game
+This is a text adventure game that I made in the C programming language in 2019 as part of a class project. It is a game where you are trapped in a room and have to type in commands explore the room and use the object within it to escape. I am putting it in my Github to store it so I can look back on it in case I try to create another text adventure game and see my improvement.
