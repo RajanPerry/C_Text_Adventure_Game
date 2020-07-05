@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\rajan perry\documents\visual studio 2017\projects\project_for_c\project_for_c\source.c(17): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rajan perry\documents\visual studio 2017\projects\project_for_c\project_for_c\source.c(34): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\rajan perry\documents\visual studio 2017\projects\project_for_c\project_for_c\source.c(1005): warning C4715: 'randomChar': not all control paths return a value
+  Project_For_C.vcxproj -> C:\Users\Rajan Perry\Documents\Visual Studio 2017\Projects\Project_For_C\Debug\Project_For_C.exe
